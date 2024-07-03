@@ -1,5 +1,5 @@
 # discord-tz-channel-rename
-test
-test 2
+test 20
+test 
 test 10
 test 30
